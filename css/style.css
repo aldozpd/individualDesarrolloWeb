@@ -1,0 +1,133 @@
+body{
+    background-color: #363636;
+}
+
+#hoja{
+    height: 27.94cm; 
+    width: 21.59cm; 
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: white;
+}
+
+#margen{
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+}
+
+#datos{
+    padding-top: 1.5cm;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    color: #2fa1be;
+}
+
+.text{
+    font-family: Tahoma;
+    font-weight: normal;
+    color: #212F3C;
+}
+
+.justifyText{
+    text-align: justify;
+}
+
+.rightText{
+    text-align: end;
+}
+
+.boldText{
+    font-weight: bold;
+}
+
+#tituloColores{
+    font-family: fantasy;
+    font-size: x-large;
+    padding: 6px;
+}
+
+.t{
+    color: #9C640C;
+}
+
+.e{
+    color: #F1C40F;
+}
+
+.x {
+    color: #283747;
+}
+
+.o{
+    color: #0068C4;
+}
+
+.d{
+    color: #1EBF56;
+}
+
+.c{
+    color: #FF0000;
+}
+
+.l{
+    color: #E111CF;
+}
+
+.r{
+    color: #9515B8;
+}
+
+.s{
+    color: #1FA6FF;
+}
+
+td, #parrafo{
+    width: 9.8cm;
+    border-color: white;
+    text-align: justify;
+    font-family: serif;
+    font-size: larger;
+}
+
+td, #colores{
+    width: 6.79cm;
+    border: 1px solid black;
+    font-size: small;
+}
+
+.arialFont{
+    font-family: Arial;
+}
+
+.blue{
+    color: #1FA6FF;
+}
+
+.green{
+    color: #1EBF56;
+}
+
+.red{
+    color: #FF0000;
+}
+
+.yellow{
+    color: #FFF000;
+}
+
+.pink{
+    color: #F947FF;
+}
+
+.padding{
+    padding-top: .8cm;
+    padding-bottom: .8cm;
+}
+
